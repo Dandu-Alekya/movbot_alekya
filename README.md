@@ -26,7 +26,15 @@ Supported Languages are Node.js, Ruby, Java, PHP, Python, Go, Scala.
     - Link our repository to Heroku through GitHub.
     - Deploy the Bot on Heroku Cloud Application Program.
 
-## FUTURE SCOPE:
+## Commands
+The commands of the bot are: 
+1. /start- Starts the bot
+2. /help - Provides the description about the bot 
+3. To select a language(TELUGU/HINDI/ENGLISH)- the user can provide the selected language in any case. eg: for english- E,e,ENGLISH, english are all acceptable.
+4. To select the genre- the bot provides the needed commands 
+5. bye - Ends the conversation with the bot
+
+## Future Scope
 1. The Telegram bot can be using a larger database to suggest movies to the users.
 2. The Bot can be integrated with a recommendation system using memory based collaborative filtering method or Model based collaborative filtering method.
 3. The Bot can be integrated with AI and ML algorithms to generate the text responses to the users.
