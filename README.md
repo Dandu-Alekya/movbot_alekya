@@ -9,4 +9,8 @@ From Amazon to YouTube, every application tends to use a recommendation system f
 
 This project aims to build a simple movie recommendation telegram bot called Movbot – to recommend movies to the user based on the preferred language and genre. The deployment of the telegram bot is on Heroku which is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 
+### Deployment method - HEROKU CLOUD
+Heroku is a cloud platform that lets individuals build, deliver, monitor, and scale apps — the fastest way to go from idea to URL, bypassing all those infrastructure headaches.
+Supported Languages are Node.js, Ruby, Java, PHP, Python, Go, Scala.
+
 
